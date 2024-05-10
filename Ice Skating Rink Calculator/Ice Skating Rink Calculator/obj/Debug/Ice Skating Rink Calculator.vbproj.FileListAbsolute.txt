@@ -1,0 +1,12 @@
+E:\VisualBasic\Chapter 4\Ice Skating Rink Calculator\Ice Skating Rink Calculator\obj\Debug\Ice Skating Rink Calculator.vbprojAssemblyReference.cache
+E:\VisualBasic\Chapter 4\Ice Skating Rink Calculator\Ice Skating Rink Calculator\obj\Debug\Ice_Skating_Rink2.frmIceSkatingRink.resources
+E:\VisualBasic\Chapter 4\Ice Skating Rink Calculator\Ice Skating Rink Calculator\obj\Debug\Ice_Skating_Rink2.Resources.resources
+E:\VisualBasic\Chapter 4\Ice Skating Rink Calculator\Ice Skating Rink Calculator\obj\Debug\Ice Skating Rink Calculator.vbproj.GenerateResource.cache
+E:\VisualBasic\Chapter 4\Ice Skating Rink Calculator\Ice Skating Rink Calculator\obj\Debug\Ice Skating Rink Calculator.vbproj.CoreCompileInputs.cache
+E:\VisualBasic\Chapter 4\Ice Skating Rink Calculator\Ice Skating Rink Calculator\bin\Debug\Ice Skating Rink Calculator.exe.config
+E:\VisualBasic\Chapter 4\Ice Skating Rink Calculator\Ice Skating Rink Calculator\bin\Debug\Ice Skating Rink Calculator.exe
+E:\VisualBasic\Chapter 4\Ice Skating Rink Calculator\Ice Skating Rink Calculator\bin\Debug\Ice Skating Rink Calculator.pdb
+E:\VisualBasic\Chapter 4\Ice Skating Rink Calculator\Ice Skating Rink Calculator\bin\Debug\Ice Skating Rink Calculator.xml
+E:\VisualBasic\Chapter 4\Ice Skating Rink Calculator\Ice Skating Rink Calculator\obj\Debug\Ice Skating Rink Calculator.exe
+E:\VisualBasic\Chapter 4\Ice Skating Rink Calculator\Ice Skating Rink Calculator\obj\Debug\Ice Skating Rink Calculator.xml
+E:\VisualBasic\Chapter 4\Ice Skating Rink Calculator\Ice Skating Rink Calculator\obj\Debug\Ice Skating Rink Calculator.pdb
