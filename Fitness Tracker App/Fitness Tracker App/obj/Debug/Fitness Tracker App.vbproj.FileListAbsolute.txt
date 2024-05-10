@@ -1,0 +1,24 @@
+C:\Users\105047\AppData\Local\Temporary Projects\Fitness Tracker App\bin\Debug\Fitness Tracker App.exe.config
+C:\Users\105047\AppData\Local\Temporary Projects\Fitness Tracker App\bin\Debug\Fitness Tracker App.exe
+C:\Users\105047\AppData\Local\Temporary Projects\Fitness Tracker App\bin\Debug\Fitness Tracker App.pdb
+C:\Users\105047\AppData\Local\Temporary Projects\Fitness Tracker App\bin\Debug\Fitness Tracker App.xml
+C:\Users\105047\AppData\Local\Temporary Projects\Fitness Tracker App\obj\Debug\Fitness Tracker App.vbprojAssemblyReference.cache
+C:\Users\105047\AppData\Local\Temporary Projects\Fitness Tracker App\obj\Debug\Fitness_Tracker_App.frmFitnessTrackerApp.resources
+C:\Users\105047\AppData\Local\Temporary Projects\Fitness Tracker App\obj\Debug\Fitness_Tracker_App.Resources.resources
+C:\Users\105047\AppData\Local\Temporary Projects\Fitness Tracker App\obj\Debug\Fitness Tracker App.vbproj.GenerateResource.cache
+C:\Users\105047\AppData\Local\Temporary Projects\Fitness Tracker App\obj\Debug\Fitness Tracker App.vbproj.CoreCompileInputs.cache
+C:\Users\105047\AppData\Local\Temporary Projects\Fitness Tracker App\obj\Debug\Fitness Tracker App.exe
+C:\Users\105047\AppData\Local\Temporary Projects\Fitness Tracker App\obj\Debug\Fitness Tracker App.xml
+C:\Users\105047\AppData\Local\Temporary Projects\Fitness Tracker App\obj\Debug\Fitness Tracker App.pdb
+E:\VisualBasic\Chapter 4\Fitness Tracker App\Fitness Tracker App\bin\Debug\Fitness Tracker App.exe.config
+E:\VisualBasic\Chapter 4\Fitness Tracker App\Fitness Tracker App\bin\Debug\Fitness Tracker App.exe
+E:\VisualBasic\Chapter 4\Fitness Tracker App\Fitness Tracker App\bin\Debug\Fitness Tracker App.pdb
+E:\VisualBasic\Chapter 4\Fitness Tracker App\Fitness Tracker App\bin\Debug\Fitness Tracker App.xml
+E:\VisualBasic\Chapter 4\Fitness Tracker App\Fitness Tracker App\obj\Debug\Fitness Tracker App.vbprojAssemblyReference.cache
+E:\VisualBasic\Chapter 4\Fitness Tracker App\Fitness Tracker App\obj\Debug\Fitness_Tracker_App.frmFitnessTrackerApp.resources
+E:\VisualBasic\Chapter 4\Fitness Tracker App\Fitness Tracker App\obj\Debug\Fitness_Tracker_App.Resources.resources
+E:\VisualBasic\Chapter 4\Fitness Tracker App\Fitness Tracker App\obj\Debug\Fitness Tracker App.vbproj.GenerateResource.cache
+E:\VisualBasic\Chapter 4\Fitness Tracker App\Fitness Tracker App\obj\Debug\Fitness Tracker App.vbproj.CoreCompileInputs.cache
+E:\VisualBasic\Chapter 4\Fitness Tracker App\Fitness Tracker App\obj\Debug\Fitness Tracker App.exe
+E:\VisualBasic\Chapter 4\Fitness Tracker App\Fitness Tracker App\obj\Debug\Fitness Tracker App.xml
+E:\VisualBasic\Chapter 4\Fitness Tracker App\Fitness Tracker App\obj\Debug\Fitness Tracker App.pdb
